@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s05qmfnpeg",
+  "description": "https://scrimba.com/s05qmfnpeg/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}

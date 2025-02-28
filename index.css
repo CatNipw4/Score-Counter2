@@ -1,0 +1,48 @@
+.vt323-regular {
+  font-family: "VT323", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+    margin: 0;
+    background-color: #1B244A;
+}
+
+.container {
+    font-family: Verdana;
+    font-size: 40px;
+    text-align: center;
+    color: #EEEEEE;
+    display: flex;
+    justify-content: space-around;
+}
+
+.label{
+    margin: 50px 0 20px 0;
+}
+
+.score {
+    font-family: 'VT323';
+    margin: 0px auto 10px auto;
+    background: #080001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 155px;
+}
+
+.btn {
+    font-family: 'VT323';
+    color: #9AABD8;
+    font-size: 24px;
+    background-color: transparent;
+    margin: 0 0 15px 0 ;
+    padding: 10px 10px;
+    border: 2px solid #9AABD8;
+    border-radius: 4px;
+}
+
+#resetbutton {
+    display: block;
+    margin: 0 auto;
+}
